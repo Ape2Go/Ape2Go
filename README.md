@@ -1,5 +1,7 @@
 ---
 description: Overview
+cover: .gitbook/assets/Twitter header blubss.jpg
+coverY: 8.303975842979366
 ---
 
 # Ape2Go Metaverse
